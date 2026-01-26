@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
-    "ipfs": "^0.28.0",
+    "ipfs": "^0.66.1",
     "orbit-db": "^0.19.8",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
